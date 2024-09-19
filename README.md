@@ -13,7 +13,7 @@ Ascending the gradient descent
 Audio and image reconstruction using random Fourier features
 
 ## Task 3
-Supper-resolution using random Fourier features
+Super-resolution using random Fourier features
 
 ## Task 4
 Image reconstruction using matrix factorization
